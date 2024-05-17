@@ -105,7 +105,7 @@ p {
 	vertical-align: middle;
 }
 .title-box::before {
-    background: #fd5308;
+    background: #bf9b79 ;
     bottom: 0;
     content: "";
     display: block;
@@ -285,8 +285,8 @@ p {
     text-align: center;
 }
 .about-wrap .icon-holder i {
-    background-color: #fd5308;
-	border: 1px solid #fd5308;
+    background-color: #bf9b79 ;
+	border: 1px solid #bf9b79 ;
     border-radius: 50%;
     color: #fff;
 	height: 40px;
@@ -297,10 +297,10 @@ p {
 .about-wrap:hover .icon-holder i {
     background-color: #fff;
 	border-color: #fff;
-    color: #fd5308;
+    color: #bf9b79 ;
 }
 .about-wrap li::before {
-	color: #fd5308;
+	color:#bf9b79 ;
     content: "\f14a";
     font-family: "Font Awesome 5 Free";
 	font-weight: bold;
@@ -322,13 +322,13 @@ p {
     margin: 0 0 50px;
 }
 .about-item h3 {
-    font-size: 28px;
+    font-size: 45px;
 	font-weight: bold;
 	margin: 0 0 20px;
 	text-transform: capitalize;
 }
 .about-item:hover h3 {
-    color: #fd5308;
+    color: #bf9b79 ;
 }
 
 /*
@@ -548,15 +548,16 @@ p {
     margin-bottom: 30px;
 }
 .contact-details .fa-solid.fa-fw {
-	background-color: #fd5308;
-    border: 1px solid #fd5308;
+	/* background-color: #fd5308; */
+    border: 1px solid #efe9e3 ;
     border-radius: 50%;
-    color: #fff;
+    color: #bf9b79 ; 
     height: 28px;
-    margin: 0px 15px 20px 0;
+    margin: 35px 15px 20px 0;
     padding: 5px;
     text-align: center;
     width: 28px;
+    font-size: 35px;
 }
 .form-group {
     position: relative;
