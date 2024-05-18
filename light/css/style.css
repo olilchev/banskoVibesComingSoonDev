@@ -349,6 +349,11 @@ p {
 .text-box > p:last-child, .text-box .list-unstyled {
     margin: 0;
 }
+
+.list-unstyled{
+    font-size: 18px;
+    margin-right: 25px;
+}
 .about-item {
     margin: 0 0 50px;
 }
@@ -553,6 +558,14 @@ p {
 	8. Contact Section
 |----------------------------------------------------------------------------
 */
+    .contactTitle {
+        font-size: 22px;
+    }
+
+    .contactTitle2 {
+        font-size: 22px;
+    }
+
 #contactForm {
 	margin: 0 0 50px;
 }
